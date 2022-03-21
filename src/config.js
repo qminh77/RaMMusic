@@ -1,7 +1,7 @@
 module.exports = {
-    token: process.env.TOKEN || "OTA5Nzc3Njg4MTcxMDA4MDIw.YZJOfw.XANEZuQ5VBwb-CbHAn1LvtOVvyE",  // your bot token
+    token: process.env.TOKEN || "OTMzNzQzMTUyMzE2MTYyMTM4.Yel-Ew.qcLPJfG1clfeqOApGEK1t5F6o7w",  // your bot token
     prefix: process.env.PREFIX || ";", // bot prefix
-    ownerID: process.env.OWNERID || "870670166835486760", //your discord id
+    ownerID: process.env.OWNERID || "909654353361641522", //your discord id
     SpotifyID: process.env.SPOTIFYID || "52ad218fe09e463f8cb9e110902946ef", // spotify client id
     SpotifySecret: process.env.SPOTIFYSECRET || "8cba16cad2e243cda21c3fcf4538e5f8", // spotify client secret
     mongourl: process.env.MONGO_URI || "mongodb://newuser:newuser@cluster0-shard-00-00.uf6th.mongodb.net:27017,cluster0-shard-00-01.uf6th.mongodb.net:27017,cluster0-shard-00-02.uf6th.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-6cm745-shard-0&authSource=admin&retryWrites=true&w=majority", // MongoDb URL
